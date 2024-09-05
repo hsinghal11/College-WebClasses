@@ -1,0 +1,44 @@
+/* element Selector*/
+/* h1{ 
+    color: red; 
+} */
+
+/* id selector */
+/* #direct{
+    font-size: 100px;
+} */
+
+/* Class selector */
+/* .divHead{
+    background-color: teal;
+}  */
+
+
+/* Universal selector */
+/* *{
+    border: 1px solid red ;
+    border: 3px dotted aqua;
+    border: 5px dashed greenyellow;
+} */
+
+/* Attribute Selector */
+/* input{
+    background-color: yellowgreen;
+} */
+
+input[type="password"]{
+    background-color: powderblue;
+}
+input[type="text"]{
+    background-color: gray;
+}
+a[href="https://google.com"]{
+    font-size: 40px;
+    background-color: thistle;
+    color: black;
+}
+a[href="https://tesla.com"]{
+    background-color: azure;
+    color: chartreuse;
+    font-size: 30px;
+}

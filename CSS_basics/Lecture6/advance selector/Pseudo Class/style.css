@@ -1,0 +1,24 @@
+input{
+    background-color: aliceblue;
+}
+
+input:focus{
+    background-color: aqua;
+    font-size: 100px;
+}
+
+a:active{
+    color: pink;
+    font-size: large;
+}
+a:visited{
+    background-color: rgb(27, 10, 135);
+    font-size: 100px;
+}
+
+div{
+    background-color: teal;
+}
+div:hover{
+    background-color: brown;
+}

@@ -1,0 +1,19 @@
+/* body{
+   background-color: darkgrey;
+}
+
+section{
+    width: 50%;
+    background-color: gainsboro;
+}
+
+div{
+    width: 50%;
+    background-color: thistle;
+    border: 2px dashed black;
+} */
+
+ul>li{
+    font-size: 2em;
+    font-size: 2rem;
+}
